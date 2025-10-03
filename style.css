@@ -67,7 +67,7 @@ color:#B1C6FC
 
 #menu
 {
-background-image:url("menu.png");
+background-image:url("catedits.png");
 background-repeat:no-repeat;
 width:940px;
 height:69px;
@@ -144,5 +144,6 @@ text-align: center;
 }
 
 p {text-align: left;}
+
 
 
